@@ -75,7 +75,6 @@ http://localhost:5000/mobile_api/auth
       "role": "Admin",
       "is_active": true
     },
-    ...
   ]
   ```
 
@@ -92,7 +91,6 @@ http://localhost:5000/mobile_api/auth
       "role": "Admin",
       "is_active": true
     },
-    ...
   ]
   ```
 
